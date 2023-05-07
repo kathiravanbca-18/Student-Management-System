@@ -8,7 +8,7 @@
 
 #3) Open MySQL Workbench
 
-         create databse student_management ;
+         create database student_management ;
          
          use student_management ;
          
