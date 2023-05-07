@@ -29,6 +29,16 @@
      
      pip install pymysql
      
- #Run main.py on python idle :
+#Run main.py on python idle :
  
- #Now You can see desktop application.
+#Now You can see desktop application.
+ 
+# Description
+
+ 
+#The Student Management System is a desktop-based software designed to facilitate the management of student information in educational institutions.
+#This project aims to automate and simplify the process of managing student data such as enrollment, personal details, course details, and other relevant information. #The system provides an intuitive user interface for students, teachers, and administrators to access and manage student records easily.
+#The Student Management System utilizes modern technologies such as Python to create a responsive and user-friendly interface.
+#With this system, administrators can easily monitor student performance, generate reports, and manage other administrative tasks.
+#Teachers can use the system to input the personal and educational details of the students. 
+#Overall, this project provides an efficient solution for managing student data and improving the overall management of educational institutions.
